@@ -10,7 +10,7 @@
         "p_sink_file" : "AdventureWorks_Calendar.csv"
     },
     {
-        "p_rel_url" : "ayoawolalu/Fabric-Tutorial/raw/refs/heads/main/AdventureWorks_Product_Categories.csv,
+        "p_rel_url" : "ayoawolalu/Fabric-Tutorial/raw/refs/heads/main/AdventureWorks_Product_Categories.csv",
         "p_sink_folder" : "AdventureWorks_Customers",
         "p_sink_file" : "AdventureWorks_Customers.csv"
     },
